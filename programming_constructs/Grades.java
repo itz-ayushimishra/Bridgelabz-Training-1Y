@@ -18,8 +18,10 @@ else if(marks>=70 && marks<80)
 System.out.println("B Grade");
 else if(marks>=80 && marks<90)
 System.out.println("B+ Grade");
-else if(marks>=90 && marks<=99)
+else if(marks>=90 && marks<=95)
 System.out.println("A Grade");
+else if(marks>95 && marks<=99)
+System.out.println("A+ Grade");
 else if(marks == 100)
 System.out.println("O Grade");
 else
