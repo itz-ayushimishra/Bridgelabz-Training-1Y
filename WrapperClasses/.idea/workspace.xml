@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="956042f3-6eb6-47e3-a097-d6325bb637b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../04-array/Level1/ArraySum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level1/ArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level1/Copy2DTo1D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level1/Copy2DTo1D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level1/EvenOddArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level1/EvenOddArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level1/FactorsArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level1/FactorsArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level1/FizzBuzz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level1/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level1/Heights.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level1/Heights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level1/MultiplicationTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level1/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level1/Numbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level1/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level1/TableSixToNine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level1/TableSixToNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level1/VotingEligibility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level1/VotingEligibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level2/BMIUsing1D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level2/BMIUsing1D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level2/BMIUsing2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level2/BMIUsing2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level2/DigitFrequency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level2/DigitFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level2/EmployeeBonus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level2/EmployeeBonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level2/LargestAndSecondLargest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level2/LargestAndSecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level2/Largests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level2/Largests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level2/Reverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level2/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level2/StudentGrades.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level2/StudentGrades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level2/StudentGrades2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level2/StudentGrades2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level2/YoungestTallest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-array/Level2/YoungestTallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs/Fahrenheit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs/Kms_To_Miles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs/Rect_Perimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs/SimpleInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs/addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs/area_of_circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs/bridgelabz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs/vol_of_cyl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs2/Area_Of_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs2/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs2/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs2/Distance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs2/DoubleOpt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs2/Fee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs2/Harry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs2/Height.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs2/IntOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs2/Kilometer_To_Miles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs2/No_Of_Handshakes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs2/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs2/Price.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs2/Profit_Loss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs2/Sam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs2/Side_Of_Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs2/Volume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_programs2/Volume_Of_Earth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Grades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-1/Compare_Sum_Of_Natural_Nos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-1/Compare_Sum_Of_Natural_Nos_For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-1/Div_By_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-1/Factorial_Using_For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-1/Factorial_Using_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-1/Largest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-1/Pos_Neg_Zero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-1/RocketCountdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-1/RocketCountdown_For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-1/Smallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-1/SpringSeason.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-1/Sum_Of_Natural_Nos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-1/Sum_Until_Zero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-1/Sum_Until_ZeroOrNeg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-1/Vote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-2/Bonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-2/Factors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-2/FactorsWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-2/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-2/FizzBuzzWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-2/GreatestFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-2/GreatestFactorWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-2/Multiples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-2/MultiplesWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-2/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-2/OddAndEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-2/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-2/PowerWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-2/YoungestAndTallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-3/AbundantNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-3/AbundantNumber.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-3/BMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-3/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-3/CompositeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-3/CountDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-3/DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-3/DayOfWeekString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-3/GradeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-3/HarshadNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-3/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-3/LeapYearSingleIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programming_constructs/Java-control-flow-Level-3/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/AdvanceTopic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/Inheritance/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/Inheritance/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/Inheritance/Puppy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/Inheritance/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/Inheritance/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/Inheritance/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/Threads/EvenThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/Threads/MyThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/Threads/MyThread2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/Threads/OddThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/Threads/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/Threads/Runner2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/abstraction/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/abstraction/PartTimeEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/abstraction/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/constructor/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/constructor/hgeg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/exception/ExHandlingPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/exception/InvalidAgeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/exception/Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/exception/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/leetcode/Solution_283.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/leetcode/Solution_58.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/methods/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/methods/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/methods/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/methods/StaticNonStatic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/mutithreading/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/mutithreading/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/mutithreading/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/polymorphism/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvanceTopic/src/com/gla/polymorphism/Runner.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3BhmhJOYetMCeAWsXCKkEAFNzvb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Question1.executor": "Run",
+    "Application.Question2.executor": "Run",
+    "Application.Question3.executor": "Run",
+    "Application.Question4.executor": "Run",
+    "Application.Question5.executor": "Run",
+    "Application.Question6.executor": "Run",
+    "Application.Question7.executor": "Run",
+    "Application.Question8.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "ExceptionHandling",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/DELL/OneDrive/Desktop/Bridgelabz-1Y/WrapperClasses/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="956042f3-6eb6-47e3-a097-d6325bb637b6" name="Changes" comment="" />
+      <created>1774949809118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774949809118</updated>
+    </task>
+    <servers />
+  </component>
+</project>
